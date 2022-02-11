@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/gisvo/Desktop/MockApp/app/src/main/res/layout/activity_data_page.xml" value="0.2871376811594203" />
+        <entry key="..\:/Users/gisvo/Desktop/MockApp/app/src/main/res/layout/activity_field_data.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/gisvo/Desktop/MockApp/app/src/main/res/layout/activity_main.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/gisvo/Desktop/MockApp/app/src/main/res/layout/field_data_layout.xml" value="0.18" />
+        <entry key="..\:/Users/gisvo/Desktop/MockApp/app/src/main/res/layout/field_data_recyclerview.xml" value="0.28442028985507245" />
       </map>
     </option>
   </component>
